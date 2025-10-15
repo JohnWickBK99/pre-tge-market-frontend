@@ -1,0 +1,12 @@
+/**
+ * Main Styles Entry Point
+ * Import all style modules here
+ */
+
+/* Import Tailwind CSS */
+@import 'tailwindcss';
+
+/* Import custom styles */
+@import './fonts.css';
+@import './base.css';
+@import './scrollbar.css';
